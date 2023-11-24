@@ -4,11 +4,11 @@ This example uses Material UI with [React-admin](https://marmelab.com/react-admi
 
 ## How to use
 
-[![Test on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/marmelab/material-ui-react-admin/tree/main/)
+[![Test on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/marmelab/material-ui-react-admin/tree/main/) [![Test on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/marmelab/material-ui-react-admin/tree/main/)
 
-[![Test on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/marmelab/material-ui-react-admin/tree/main/)
+Test it online: [https://marmelab.com/material-ui-react-admin/](https://marmelab.com/material-ui-react-admin/)
 
-or download the example [or clone the repo](https://github.com/marmelab/material-ui-react-admin):
+or clone the repo:
 
 ```bash
 git clone --depth 1 git@github.com:marmelab/material-ui-react-admin.git
