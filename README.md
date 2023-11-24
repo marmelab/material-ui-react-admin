@@ -4,14 +4,14 @@ This example uses Material UI with [React-admin](https://marmelab.com/react-admi
 
 ## How to use
 
-[![Test on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-ui-react-admin)
+[![Test on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/marmelab/material-ui-react-admin/tree/main/)
 
-[![Test on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/material-ui-react-admin)
+[![Test on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/marmelab/material-ui-react-admin/tree/main/)
 
-or download the example [or clone the repo](https://github.com/mui/material-ui):
+or download the example [or clone the repo](https://github.com/marmelab/material-ui-react-admin):
 
 ```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/material-ui-react-admin
+git clone --depth 1 git@github.com:marmelab/material-ui-react-admin.git
 cd material-ui-react-admin
 ```
 
@@ -30,6 +30,6 @@ It shows how react-admin builds up on Material UI to provide application buildin
 
 ## What's Next?
 
-- Explore the code of this example
-- Discover the [React-admin features](https://marmelab.com/react-admin/Features.html)
-- Bootstrap your own admin with [Create React Admin](https://marmelab.com/react-admin/CreateReactAdmin.html)
+-   Explore the code of this example
+-   Discover the [React-admin features](https://marmelab.com/react-admin/Features.html)
+-   Bootstrap your own admin with [Create React Admin](https://marmelab.com/react-admin/CreateReactAdmin.html)
